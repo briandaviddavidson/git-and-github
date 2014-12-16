@@ -1,4 +1,4 @@
-maptimePresentation
+Intro to Git and Github!
 ===================
 
 Welcome everyone! This is my presentation I created on Github for Maptime DC on December 16th, 2014. Feel free to fork this repository and play around with the code on your own!!
