@@ -1,7 +1,7 @@
 Intro to Git and Github!
 ===================
 
-Welcome everyone! This is my presentation I created on Github for Maptime DC on December 16th, 2014. Feel free to fork this repository and play around with the code on your own!!
+Welcome everyone! This is my presentation I created on Github for Maptime DC on August 30, 2016. Feel free to fork this repository and play around with the code on your own!!
 
 Below are some resources I've gathered that will help you learn the basics of Git and Github as well as how to host your website using Github.
 
